@@ -16,7 +16,10 @@ Fields:
   - bütçe
   - yapım yılı
   - renk
+  
+  
 ### Turkish
+
 Bu depoda (repository) yaklaşık 20000 film verisi aşağıdaki bilgilerle birlikte bulunmaktadır.
 
 Bilgi alanları:
