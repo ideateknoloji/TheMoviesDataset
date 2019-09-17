@@ -14,9 +14,3 @@ Bilgi alanları:
   - bütçe
   - yapım yılı
   - renk
-
-### Gereksinimler
-
-* Python3
-* Selenium
-* BeautifulSoup
